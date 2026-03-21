@@ -1,5 +1,7 @@
 # Ink Ghostlistener
 
+![Ink Ghostlistener](./Ink%20Ghostlistener%20バナー.jpg)
+
 **架空のリスナーからのお便りを、コマンド一つで届けるDiscord Bot。**
 
 配信中の演出として、ファンサーバーにお便りをランダムに投稿します。
